@@ -1,6 +1,6 @@
 <!-- ملف الـ README الخاص بملفك الشخصي على GitHub -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, programmers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is **Mohamed**, I am a Software Developer and Electronics Maker/Embedded Systems Enthusiast. I build mobile applications and smart hardware solutions!
 
