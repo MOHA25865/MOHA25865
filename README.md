@@ -16,7 +16,7 @@ My name is **Mohamed**, I am a Software Developer and Electronics Maker/Embedded
 ### 🛠️ Hardware & Embedded Systems
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Hardware-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=E7352C)
-![](https://img.shields.io/badge/Tools-PlatformIO-informational?style=flat&logo=platformio&logoColor=white&color=F3722C)
+![](https://img.shields.io/badge/Tools-PlatformIO-informational?style=flat&logo=platformio&omega;Color=F3722C)
 ![](https://img.shields.io/badge/Tools-Arduino_IDE-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 
 ### ⚙️ Environment & Tools
@@ -38,10 +38,10 @@ My name is **Mohamed**, I am a Software Developer and Electronics Maker/Embedded
 
 <p align="center">
   <a href="https://github.com/MOHA25865">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21&langs_count=4" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHA25865&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21&langs_count=4" />
   </a>
   <a href="https://github.com/MOHA25865">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHA25865&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=02569B&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ My name is **Mohamed**, I am a Software Developer and Electronics Maker/Embedded
 
 ## 📫 Connect with me
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/MOHA25865" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
